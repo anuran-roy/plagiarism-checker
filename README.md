@@ -1,0 +1,1 @@
+Plagiarism checker that checks the content with respect to search results from Bing

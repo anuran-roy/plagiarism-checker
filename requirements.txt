@@ -1,0 +1,7 @@
+nltk
+requests
+bs4
+time
+json
+re
+string
